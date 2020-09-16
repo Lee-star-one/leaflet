@@ -1,0 +1,12 @@
+.sample-tooltips {
+  text-align: left;
+  padding: 0 15px;
+}
+.sample-tooltips h1 {
+  font-size: 16px;
+}
+.sample-tooltips p {
+  font-size: 14px;
+  font-weight: 200;
+  color: red;
+}

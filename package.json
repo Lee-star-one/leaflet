@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "esri-leaflet": "^2.5.0",
+    "esri-leaflet-cluster": "^2.1.0",
+    "esri-leaflet-renderers": "^2.1.2",
     "leaflet": "^1.7.1",
+    "leaflet.chinatmsproviders": "^3.0.3",
+    "leaflet.markercluster": "^1.4.1",
     "less": "^3.12.2",
     "less-loader": "^7.0.1",
     "vue": "^2.6.11",
